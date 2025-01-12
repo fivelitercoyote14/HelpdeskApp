@@ -1,0 +1,66 @@
+possible changes:
+
+Pre-Populated Problem Suggestions
+When selecting a specific device or location, automatically suggest common issues based on past logs (e.g., "MacBook" suggests "Battery Issue").
+	the logic for this would have to be extensive and very well throught out. should we then and a layer by grouping common issues by categories such as : Hardware, software, network, etc. then how would that fit into grouping further by device type. will device type come first, or after issue category. for now lets not do this. my coworkers can come up with that logic over time if they decide to use this app and want those changes. 
+
+User Preferences
+Add a settings menu where users can customize colors
+
+UI possible or planned changes 
+
+Dropdown Design
+
+Use custom-styled dropdowns or larger dropdowns for better visibility if the list is long. 
+	The lists gets long but for now we might just want to make them abc order so that users can get used to the list order over time with the help of the abc presumtion of terms. 
+
+Dynamic Banner
+
+Allow users to change the banner image or upload their own, similar to how you added your dog.
+
+Icon Buttons
+
+Replace or complement button labels with icons for a modern and intuitive touch (e.g., a floppy disk icon for "Save").
+also 
+change or customize the .exe icon
+
+
+
+Category and List Additions
+
+Devices
+SmartBoard
+Document Cameras
+
+Problems
+Audio/Video Issues
+Missing Software
+Forgotten Passwords
+Email Configuration
+
+Locations
+Conference Rooms
+
+User Type
+Support Services staff
+CEO staff
+Substitute Teacher
+
+
+Small Polishing Ideas
+Dog Themed Easter Egg
+
+Clicking on your dog's photo could trigger a fun pop-up (e.g., "Woof! You're doing great work!").
+	cute but this can come later 
+
+Custom Fonts
+	user choice. no crazy fonts
+Experiment with slightly more modern or playful fonts for the headers (but keep them professional).
+
+Save Confirmation
+
+Show a brief pop-up or visual confirmation near the save button when a log is saved successfully.
+
+Multi-User Support
+
+after the .exe is shared. i want their color and font choices to be saved and shown after they close then open it again in the future

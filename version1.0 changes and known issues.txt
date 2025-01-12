@@ -1,0 +1,10 @@
+changes since version 0.8
+The code has been updated to address the following issues:
+
+Dropdown selections (Town, Device, Problem, Location, User Type) now retain their default options and update properly without removing the first option.
+The "Caller Name" and "Computer Name" buttons place the cursor directly at the input point for user convenience.
+The call log numbering now works consistently, only incrementing when "New Call Log" is clicked, regardless of other buttons being clicked.
+
+issues:
+none. at all. its perfect. 
+

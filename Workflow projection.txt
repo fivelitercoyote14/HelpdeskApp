@@ -1,0 +1,25 @@
+ideal workflow for app:
+assumtions:
+app is open and user is logged into helpdesk 
+
+*call is ringing*
+" This is the technology helpdesk how can I help you?:
+
+helpdesk user, user for now on: 
+selects new call button 
+client will usually (not always in this order)
+say:
+" Hi my name is Mary Doe and I am *user type*"
+user clicks Caller name button 
+user types in caller name 
+and  user type (such as teacher) 
+
+"I am at *location*, the device is a *device type*, the problem is *problem/issue*, we/device are located at *location within school*, 
+
+call is either helped by helpdesk remotley / solved by helpdesk or any extra info is recored and create ticket that is forwared to that locations technician 
+
+*call ends*
+ 
+*new call rings (the 2nd call)*
+user clicks New Call button to begin loggin the second call 
+

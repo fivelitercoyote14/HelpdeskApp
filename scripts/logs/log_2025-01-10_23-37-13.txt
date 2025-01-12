@@ -1,0 +1,9 @@
+--- Call 1 ---
+School A
+Windows PC
+Hardware Failure
+
+--- Call 2 ---
+School B
+Chromebook
+Network Issue
