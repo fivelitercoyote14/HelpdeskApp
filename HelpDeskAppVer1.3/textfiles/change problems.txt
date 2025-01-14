@@ -1,0 +1,4 @@
+        problems = ["Select Problem", "Password Reset", "Add Printer", "Device Needs Set Up", "Log In Issue", "Cameras",
+                    "Warranty Request", "Phone Issue", "Adobe", "Update Needed/Issues", "Network Connection", "Printer Issues",
+                    "Tyler Account - Payroll", "Tyler Account - Munis", "Trust Issues", "Raptor Kiosk", "Display", "Mouse/Keyboard",
+                    "Software/Apps Needed", "Reimage Needed", "Boot Issues"]

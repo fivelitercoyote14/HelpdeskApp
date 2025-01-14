@@ -1,0 +1,4 @@
+add printer menu
+	smart popup when printer is selected 
+adjust or add problems 
+add what call ended in 
