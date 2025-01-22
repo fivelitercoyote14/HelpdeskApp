@@ -56,10 +56,10 @@ Notes: Issue resolved remotely.
 Additional Features to Consider
 
 Auto-Formatting for Caller Name and Computer Name
-	is this not already done ;_; (?)
+	
 	
 Auto-insert spaces or newlines after "Caller Name:" or "Computer Name:" to prevent formatting issues.
-	is this not the above suggestion too? -.-
+	
 	
 Call Log Export
 
