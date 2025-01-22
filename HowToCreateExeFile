@@ -1,0 +1,4 @@
+command ran:
+pyinstaller --onefile --windowed SCSHelpDeskApp.py
+
+thia ia the current method I am using to create the executable file 
